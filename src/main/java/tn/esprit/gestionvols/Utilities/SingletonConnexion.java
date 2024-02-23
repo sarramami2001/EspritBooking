@@ -9,7 +9,7 @@ public class SingletonConnexion {
     private static Connection connexion ;
     private SingletonConnexion() {
         try {
-            Class.forName("com.mysql.jdbc.Driver");
+            Class.forName("com.mysql.cj.jdbc.Driver");
             connexion= DriverManager.getConnection("jdbc:mysql://localhost:3306/db_vols","root","root");
             System.out.println("ok");
         }catch (Exception e) {
