@@ -1,9 +1,11 @@
 package tn.esprit.gestionvols.Models;
 
+import tn.esprit.gestionvols.Models.Vol;
+
 import java.time.LocalDate;
 import java.util.Scanner;
 
-public class reservation {
+public class Reservation {/*
 
     private int nbr_billets_achetes, identifiant=0;
     private LocalDate date_reservation;
@@ -74,5 +76,5 @@ public class reservation {
     public int montant_final() {
         return nbr_billets_achetes * vol.getPrix();
     }
-
+*/
 }
