@@ -23,7 +23,7 @@ public class Main {
     public static void main(String[] args) {
        // launch();
 
-        /* creation instance de la connexion
+       // creation instance de la connexion
         SingletonConnexion dbConnection = SingletonConnexion.getInstance();
         Connection conn = dbConnection.getConnection();
 
@@ -32,6 +32,7 @@ public class Main {
             conn.close();
         } catch (SQLException e) {
             e.printStackTrace();
-        }*/
+        }
     }
+
 }
