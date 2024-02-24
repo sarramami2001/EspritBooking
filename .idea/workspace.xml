@@ -5,6 +5,14 @@
   </component>
   <component name="ChangeListManager">
 
+    <list default="true" id="dd4c8407-ad96-47db-924a-68d0fb1d5067" name="Changes" comment="modification 2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Models/Vol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/DAO/DAO_Vol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/DAO/DAO_Vol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/DAO/InterfaceDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/DAO/InterfaceDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Models/Reservation.java" beforeDir="false" />
+
+
     <list default="true" id="dd4c8407-ad96-47db-924a-68d0fb1d5067" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/DAO/DAOavion.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Models/avion.java" afterDir="false" />
@@ -34,7 +42,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -50,6 +66,28 @@
   <component name="ProjectId" id="2cbI6mDFE1ZWkMV6mcRM3ejEYyH" />
 
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Gestion__vol&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/mysql-connector-java-8.0.25 (1).jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
 
@@ -74,9 +112,13 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
+
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tn.esprit.gestionvols.Models" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\YOSRA\Desktop\GestionVols\src\main\resources\tn\esprit\gestionvols\Images" />
       <recent name="C:\Users\YOSRA\Desktop\GestionVols\src\main\java\tn\esprit\gestionvols\Controllers" />
@@ -113,6 +155,28 @@
       <option name="presentableId" value="Default" />
       <updated>1708373680335</updated>
       <workItem from="1708373681380" duration="3533000" />
+
+      <workItem from="1708716273970" duration="7656000" />
+      <workItem from="1708762912884" duration="2149000" />
+    </task>
+    <task id="LOCAL-00001" summary="modification 1">
+      <option name="closed" value="true" />
+      <created>1708716937321</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708716937321</updated>
+    </task>
+    <task id="LOCAL-00002" summary="modification 2">
+      <option name="closed" value="true" />
+      <created>1708722094068</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708722094068</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+
       <workItem from="1708717392962" duration="8278000" />
     </task>
 
@@ -127,5 +191,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modification 1" />
+    <MESSAGE value="modification 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="modification 2" />
   </component>
 </project>
