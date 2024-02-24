@@ -97,5 +97,12 @@ public class Vol {
                     + ", heure_atterissage=" + heure_atterissage + "]";
         }
 
+    public Vol(String ref, String destination, String etat, int prix, int nombre_places) {
+        this.ref = ref;
+        this.destination = destination;
+        this.etat = etat;
+        this.prix = prix;
+        this.nombre_places = nombre_places;
+    }
 }
 
