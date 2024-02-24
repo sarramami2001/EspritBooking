@@ -7,5 +7,7 @@ public interface InterfaceDAO<T> {
     T getById(int id);
     List<T> getAll();
     void update(T obj);
-    void delete(int obj);
+
+    void delete(int id);
 }
+
