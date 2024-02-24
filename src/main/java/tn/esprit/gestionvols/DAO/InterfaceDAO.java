@@ -8,4 +8,6 @@ public interface InterfaceDAO<T> {
     List<T> getAll();
     void update(T obj);
     void delete(int id);
+
 }
+
