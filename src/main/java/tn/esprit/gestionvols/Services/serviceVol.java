@@ -3,9 +3,8 @@ package tn.esprit.gestionvols.Services;
 import tn.esprit.gestionvols.DAO.DAO_Vol;
 import tn.esprit.gestionvols.Models.Vol;
 
-import java.sql.Date;
 import java.util.List;
-public class service_vol {
+public class serviceVol {
 
     private DAO_Vol service  = new DAO_Vol();
 
