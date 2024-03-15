@@ -1,6 +1,6 @@
 package tn.esprit.gestionvols.Services;
 
-import tn.esprit.gestionvols.DAO.DAOCompanie;
+import tn.esprit.gestionvols.SQLDataAccess.DAOCompanie;
 import tn.esprit.gestionvols.Models.CompanieAerienne;
 
 import java.util.List;

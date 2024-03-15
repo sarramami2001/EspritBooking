@@ -1,9 +1,6 @@
 package tn.esprit.gestionvols.Models;
 
-import java.sql.Date;
-import java.time.LocalDate;
-
-public class avion {
+public class Avion {
     private String  Model, serialNumber,State ;
     private int id, Capacity;
 
@@ -47,10 +44,8 @@ public class avion {
     }
 
 
-    public avion(String s, String n12345, int i, String good) {
-    }
 
-    public avion(int id, String Model, String serialNumber, String State , int Capacity) {
+    public Avion(int id, String Model, String serialNumber, String State , int Capacity) {
         this.id = id;
         this.Model = Model;
         this.serialNumber = serialNumber;

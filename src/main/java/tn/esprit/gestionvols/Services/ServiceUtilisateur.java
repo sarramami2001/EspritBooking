@@ -1,13 +1,11 @@
 package tn.esprit.gestionvols.Services;
 
-import tn.esprit.gestionvols.DAO.DAOUtilisateur;
+import tn.esprit.gestionvols.SQLDataAccess.DAOUtilisateur;
 import tn.esprit.gestionvols.Models.Utilisateur;
 import tn.esprit.gestionvols.Utilities.Role;
 
 import javax.crypto.*;
 import javax.crypto.spec.SecretKeySpec;
-import java.security.InvalidKeyException;
-import java.security.NoSuchAlgorithmException;
 import java.util.Base64;
 import java.util.List;
 

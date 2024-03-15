@@ -1,4 +1,4 @@
-package tn.esprit.gestionvols.DAO;
+package tn.esprit.gestionvols.SQLDataAccess;
 
 import tn.esprit.gestionvols.Models.CompanieAerienne;
 import tn.esprit.gestionvols.Utilities.SingletonConnexion;
