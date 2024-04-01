@@ -4,32 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-
-    <list default="true" id="dd4c8407-ad96-47db-924a-68d0fb1d5067" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/DAO/DAOavion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Models/avion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Services/serviceAvion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0804b911-c9e0-44dc-9072-cdc887f54293" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Controllers/AvionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/Images/add.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/DAO/InterfaceDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/DAO/InterfaceDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Utilities/SingletonConnexion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Utilities/SingletonConnexion.java" afterDir="false" />
-
-    <list default="true" id="7440edba-1cd3-4226-a81d-ae2db3416ef3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Services/serviceAvion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Services/serviceAvion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -37,65 +25,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Use Maven wrapper" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
 }</component>
-  <component name="ProjectId" id="2cbI6mDFE1ZWkMV6mcRM3ejEYyH" />
-
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "crud__avion",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ChirazHanzouti/EspritBooking",
-
-    "git-widget-placeholder": "master",
-
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="ProjectId" id="2dk6Gm0xYApXg6EUqbCilhwWSck" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;crud__avion&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ChirazHanzouti/EspritBooking&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\YOSRA\Desktop\GestionVols\src\main\resources\tn\esprit\gestionvols\Images" />
-      <recent name="C:\Users\YOSRA\Desktop\GestionVols\src\main\java\tn\esprit\gestionvols\Controllers" />
+      <recent name="C:\Users\ChirazHanzouti\EspritBooking\src\main\resources\tn\esprit\gestionvols\Images" />
+      <recent name="C:\Users\ChirazHanzouti\EspritBooking\src\main\resources\tn\esprit\gestionvols\interfaces" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="projet_java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="projet_java" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -107,25 +66,18 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dd4c8407-ad96-47db-924a-68d0fb1d5067" name="Changes" comment="" />
-      <created>1708373680335</created>
+      <changelist id="0804b911-c9e0-44dc-9072-cdc887f54293" name="Changes" comment="" />
+      <created>1710539636931</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1708373680335</updated>
-      <workItem from="1708373681380" duration="3533000" />
-      <workItem from="1708717392962" duration="8278000" />
+      <updated>1710539636931</updated>
+      <workItem from="1710539639520" duration="2747000" />
+      <workItem from="1710860154904" duration="22000" />
+      <workItem from="1712005153374" duration="1099000" />
     </task>
-
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
-  }
-}]]></component>
-  <component name="TaskManager">
-
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
