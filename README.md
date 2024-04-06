@@ -1,9 +1,13 @@
 Gestion de Compagnie Aérienne
+
+
 L'application Gestion de Compagnie Aérienne est une application JavaFX conçue pour automatiser le processus de gestion des vols, 
 des compagnies aériennes, des avions, des aéroports, des utilisateurs et des groupes pour une compagnie aérienne. Cette application 
 offre une interface utilisateur conviviale permettant de gérer efficacement les détails de tous ces éléments.
 
-Fonctionnalités
+Fonctionnalités:
+
+
 Gestion des Vols: Permet d'ajouter, de consulter, de modifier et de supprimer des vols avec leurs informations associées.
 Gestion des Compagnies Aériennes: Permet d'ajouter, de consulter, de modifier et de supprimer des compagnies aériennes avec leurs détails.
 Gestion des Avions: Permet d'ajouter, de consulter, de modifier et de supprimer des avions avec leurs caractéristiques.
@@ -29,7 +33,7 @@ java --module-path /path/to/javafx-sdk-15/lib --add-modules javafx.controls,java
 
 Assurez-vous de remplacer /path/to/javafx-sdk-15 par le chemin absolu de votre JavaFX SDK.
 
-Captures d'écran
+QQE Captures d'écran:
 ![image](https://github.com/sarramami2001/EspritBooking/assets/99014698/80a8a82a-f2d2-47dc-a05b-fbb1db4c9ff9)
 
 
