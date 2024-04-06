@@ -5,15 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e37eb55e-d094-46db-b12d-65e3b6dd855e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/DAO/DAO_Reservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Models/Reservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Services/serviceReservation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Controllers/ConsultationVolController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Controllers/CrudVolController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Controllers/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Controllers/IOException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Controllers/RechercheVolsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Controllers/SupprimerVolController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/RC_affectationVol.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/Reservation.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/SupprimerVol.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/ajouter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/consultation_vol.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/crud_vol.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/desti.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/flywithus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/search.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/travel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/vol.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/DAO/DAO_Vol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/DAO/DAO_Vol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/DAO/InterfaceDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/DAO/InterfaceDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Models/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Models/Reservation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Models/Vol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Models/Vol.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Services/service_vol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Services/serviceVol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Services/serviceVol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/gestionvols/Services/serviceVol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/Images/RC_affectationVol.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/Images/Recherche_vol.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/Recherche_vol.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/Images/Reservation.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tn/esprit/gestionvols/Images/consultation_vol.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +48,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -46,25 +70,63 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2cbI6mDFE1ZWkMV6mcRM3ejEYyH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Gestion__vol&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/tp13/statioSki&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tn.esprit.gestionvols.Controllers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amoul\OneDrive\Documents\java project\EspritBooking\src\main\resources\tn\esprit\gestionvols" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tn.esprit.gestionvols.Main" />
+      <module name="GestionVols" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tn.esprit.gestionvols.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,6 +139,19 @@
       <workItem from="1709488793175" duration="5319000" />
       <workItem from="1710404406814" duration="8517000" />
       <workItem from="1710489503063" duration="6004000" />
+      <workItem from="1710576269485" duration="1170000" />
+      <workItem from="1711535510896" duration="1197000" />
+      <workItem from="1712053745229" duration="14918000" />
+      <workItem from="1712134619749" duration="2018000" />
+      <workItem from="1712259646758" duration="7988000" />
+      <workItem from="1712305772043" duration="5941000" />
+      <workItem from="1712312416263" duration="92000" />
+      <workItem from="1712312529276" duration="1871000" />
+      <workItem from="1712314815694" duration="1858000" />
+      <workItem from="1712316708648" duration="687000" />
+      <workItem from="1712317416719" duration="3745000" />
+      <workItem from="1712329127593" duration="26457000" />
+      <workItem from="1712359816962" duration="3971000" />
     </task>
     <servers />
   </component>
@@ -95,8 +170,20 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="modification 1" />
     <MESSAGE value="modification 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="27_3_2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="27_3_2024" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

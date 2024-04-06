@@ -92,7 +92,7 @@ public class Reservation {
         this.prixTotal = prixTotal;
     }
 
-    public int calculerPrixTotal(Vol vol) {
+    public float calculerPrixTotal(Vol vol) {
         if (vol == null || nombrePlaces <= 0) {
             return 0;
         }

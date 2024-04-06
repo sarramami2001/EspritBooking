@@ -3,12 +3,13 @@ package tn.esprit.gestionvols.Services;
 import tn.esprit.gestionvols.DAO.DAO_Vol;
 import tn.esprit.gestionvols.Models.Vol;
 
+import java.sql.SQLException;
 import java.util.List;
 public class serviceVol {
 
     private DAO_Vol service  = new DAO_Vol();
 
-    public void create(Vol vol){
+    public void create(Vol vol) throws SQLException {
         service.create(vol);
     }
     public void delete(int id){

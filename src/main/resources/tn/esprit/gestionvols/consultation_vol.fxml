@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="tn.esprit.gestionvols.Controllers.ConsultationVolController">
+   <children>
+      <ImageView fitHeight="454.0" fitWidth="735.0" layoutX="-3.0" layoutY="-47.0" opacity="0.76" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@vol.jpg" />
+         </image>
+      </ImageView>
+      <TableView fx:id="table" layoutX="23.0" layoutY="84.0" onMouseClicked="#getData" prefHeight="253.0" prefWidth="563.0">
+        <columns>
+          <TableColumn fx:id="coldestination" prefWidth="77.59997177124023" text="Destination" />
+            <TableColumn fx:id="coletat" prefWidth="41.5999755859375" text="Etat" />
+            <TableColumn fx:id="colnbplaces" prefWidth="62.39996337890625" text="nombre_total_places" />
+            <TableColumn fx:id="colprix" minWidth="0.0" prefWidth="47.2000732421875" text="prix" />
+            <TableColumn fx:id="coldatevol" prefWidth="75.0" text="date_vol" />
+            <TableColumn fx:id="colheuredepart" prefWidth="94.39996337890625" text="heure_depart" />
+            <TableColumn fx:id="colheureatt" prefWidth="124.800048828125" text="heure_atterissage" />
+            <TableColumn fx:id="colid" prefWidth="39.20001220703125" text="id" />
+        </columns>
+      </TableView>
+      <Button fx:id="btnSup" layoutX="209.0" layoutY="344.0" mnemonicParsing="false" onAction="#supprimerVol" text="Supprimer">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnmodif" layoutX="305.0" layoutY="343.0" mnemonicParsing="false" onAction="#ModifierVol" prefHeight="30.0" prefWidth="96.0" text="Modifier" />
+   </children>
+</AnchorPane>
