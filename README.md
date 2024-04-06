@@ -49,7 +49,5 @@ Avant de lancer l'application, assurez-vous d'avoir installé les éléments sui
 ![image](https://github.com/sarramami2001/EspritBooking/assets/99014698/80a8a82a-f2d2-47dc-a05b-fbb1db4c9ff9)
 
 
-Auteur
 
-Sarah Mami
 
