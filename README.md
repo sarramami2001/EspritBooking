@@ -20,11 +20,12 @@ offre une interface utilisateur conviviale permettant de gérer efficacement les
 
 
 -Prérequis
+
 Avant de lancer l'application, assurez-vous d'avoir installé les éléments suivants :
 
-_ Java Development Kit (JDK) - Version 11 ou supérieure.
+         Java Development Kit (JDK) - Version 11 ou supérieure.
 
-_ JavaFX SDK - Pour l'interface utilisateur JavaFX.
+         JavaFX SDK - Pour l'interface utilisateur JavaFX.
 
 ==> Comment exécuter l'application ?
 
