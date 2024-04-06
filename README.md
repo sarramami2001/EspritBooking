@@ -22,14 +22,19 @@ Java Development Kit (JDK) - Version 11 ou supérieure.
 JavaFX SDK - Pour l'interface utilisateur JavaFX.
 
 Comment exécuter l'application
+
+
 Clonez ce dépôt sur votre machine locale.
+
 Assurez-vous d'avoir configuré votre environnement avec le JDK et JavaFX.
 
 
 Compilez et exécutez l'application en utilisant votre IDE ou en ligne de commande :
 
 javac --module-path /path/to/javafx-sdk-15/lib --add-modules javafx.controls,javafx.fxml Main.java
+
 java --module-path /path/to/javafx-sdk-15/lib --add-modules javafx.controls,javafx.fxml Main
+
 
 Assurez-vous de remplacer /path/to/javafx-sdk-15 par le chemin absolu de votre JavaFX SDK.
 
